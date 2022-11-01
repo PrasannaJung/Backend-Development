@@ -1,0 +1,2 @@
+Hey there, from the file "written.txt"
+Appended text
